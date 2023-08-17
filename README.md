@@ -4,7 +4,7 @@
     
     A wafer (In electronics), also called a slice or substrate, is a thin slice of semiconductor,
     such as crystalline silicon (c-Si), used for the fabrication of integrated circuits and in photovoltaics,
-    to manufacture solar cells.
+    to manufacture solar cells. 
     
     The inputs of various sensors for different wafers have been provided.
     The goal is to build a machine-learning model which predicts whether a wafer needs to be replaced or not
