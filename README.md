@@ -33,7 +33,7 @@
     created a regex pattern as per the name given in the schema file to use for validation. After validating 
     the pattern in the name, we check for the length of the date in the file name as well as the length of time 
     in the file name. If all the values are as per requirements, we move such files to "Good_Data_Folder" else
-    we move such files to "Bad_Data_Folder."
+    we move such files to "Bad_Data_Folder".
     
     Number of Columns: We validate the number of columns present in the files, and if it doesn't match with the
     the value given in the schema file, then the file id moves to "Bad_Data_Folder."
