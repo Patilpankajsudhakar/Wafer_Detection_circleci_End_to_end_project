@@ -27,7 +27,7 @@
     
 #### Data Validation
     
-    In This step, we perform different sets of validation on the given set of training files.
+    In this step, we perform different sets of validation on the given set of training files.
     
     Name Validation: We validate the name of the files based on the given name in the schema file. We have 
     created a regex pattern as per the name given in the schema file to use for validation. After validating 
